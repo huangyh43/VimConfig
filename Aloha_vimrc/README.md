@@ -43,11 +43,6 @@ sudo apt-get install vim-gtk               # Ubuntu
 
 [Movie teaching zencoding.vim](http://mattn.github.com/zencoding-vim/)
 
-### Screenshots
-
-![Completions](https://raw.github.com/humiaozuzu/dot-vimrc/master/screenshots/completions.gif)
-![Snippets](https://raw.github.com/humiaozuzu/dot-vimrc/master/screenshots/snippets.gif)
-
 #### Sometimes we need to jump to previous positions to copy/paste or do some fixes:
 ## Fast navigation
 
@@ -142,15 +137,11 @@ YAML         | js-yaml       | `npm install -g js-yaml`
 ### Shortcuts
 * `F5` -> Toggle Nerd-Tree file viewer
 * `F6` -> Toggle tagbar
+* `Ctrl` + `t` -> Toggle the windows among Nerd-Tree, tagbar and buffers
 * `Ctrl` + `p` -> Toggle ctrlp
 * `Alt` + `1~9` -> Switch between multiple buffers
 * `Ctrl` + `h/j/k/l` -> Moving between spilt windows
 * `:Ack` or `<leader>` + `a` -> Toggle Ack searching
-
-### Screenshots
-
-![Vim IDE 1](https://raw.github.com/humiaozuzu/dot-vimrc/master/screenshots/vim.jpg)
-![Vim IDE 2](https://raw.github.com/humiaozuzu/dot-vimrc/master/screenshots/vim2.jpg)
 
 ## Other Utils
 
