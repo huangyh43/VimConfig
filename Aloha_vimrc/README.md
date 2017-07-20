@@ -213,7 +213,9 @@ Clone in Mac
 
 2. Clone and install this repo:
 
-        git clone git://github.com/humiaozuzu/dot-vimrc.git ~/.vim
+        git clone git@github.com:huangyh43/VimConfig.git vimConfig
+        cp -r vimConfig/Aloha_vimrc/. ~/.vim
+        cd
         ln -s ~/.vim/vimrc ~/.vimrc
 
 3. Setup `Vundle`:
